@@ -1,0 +1,13 @@
+D:\vs2019_C#_part1\Part2 개론 환경 설정\bin\Debug\netcoreapp3.1\Part2 개론 환경 설정.exe
+D:\vs2019_C#_part1\Part2 개론 환경 설정\bin\Debug\netcoreapp3.1\Part2 개론 환경 설정.deps.json
+D:\vs2019_C#_part1\Part2 개론 환경 설정\bin\Debug\netcoreapp3.1\Part2 개론 환경 설정.runtimeconfig.json
+D:\vs2019_C#_part1\Part2 개론 환경 설정\bin\Debug\netcoreapp3.1\Part2 개론 환경 설정.runtimeconfig.dev.json
+D:\vs2019_C#_part1\Part2 개론 환경 설정\bin\Debug\netcoreapp3.1\Part2 개론 환경 설정.dll
+D:\vs2019_C#_part1\Part2 개론 환경 설정\bin\Debug\netcoreapp3.1\Part2 개론 환경 설정.pdb
+D:\vs2019_C#_part1\Part2 개론 환경 설정\obj\Debug\netcoreapp3.1\Part2 개론 환경 설정.csprojAssemblyReference.cache
+D:\vs2019_C#_part1\Part2 개론 환경 설정\obj\Debug\netcoreapp3.1\Part2 개론 환경 설정.AssemblyInfoInputs.cache
+D:\vs2019_C#_part1\Part2 개론 환경 설정\obj\Debug\netcoreapp3.1\Part2 개론 환경 설정.AssemblyInfo.cs
+D:\vs2019_C#_part1\Part2 개론 환경 설정\obj\Debug\netcoreapp3.1\Part2 개론 환경 설정.csproj.CoreCompileInputs.cache
+D:\vs2019_C#_part1\Part2 개론 환경 설정\obj\Debug\netcoreapp3.1\Part2 개론 환경 설정.dll
+D:\vs2019_C#_part1\Part2 개론 환경 설정\obj\Debug\netcoreapp3.1\Part2 개론 환경 설정.pdb
+D:\vs2019_C#_part1\Part2 개론 환경 설정\obj\Debug\netcoreapp3.1\Part2 개론 환경 설정.genruntimeconfig.cache

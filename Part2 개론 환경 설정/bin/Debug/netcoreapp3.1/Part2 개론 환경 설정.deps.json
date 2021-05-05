@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Part2 개론 환경 설정/1.0.0": {
+        "runtime": {
+          "Part2 개론 환경 설정.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Part2 개론 환경 설정/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

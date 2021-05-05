@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Part2_선형_자료_기초_배열__동적_할당__연결리스트_비교</RootNamespace>
+  </PropertyGroup>
+
+</Project>
