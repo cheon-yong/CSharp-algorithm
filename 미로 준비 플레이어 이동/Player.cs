@@ -35,22 +35,21 @@ namespace 미로_준비_플레이어_이동
                 switch(randValue)
                 {
                     case 0: // 상
-                        if (_board.Tile[PosY - 1, PosX] == Board.TileType.Empty)
+                        if (PosY - 1 >= 0 && _board.Tile[PosY - 1, PosX] == Board.TileType.Empty)
                             PosY = PosY - 1;
                         break;
                     case 1: // 하
-                        if (_board.Tile[PosY + 1, PosX] == Board.TileType.Empty)
+                        if (PosY + 1 < _board.Size && _board.Tile[PosY + 1, PosX] == Board.TileType.Empty)
                             PosY = PosY + 1;
                         break;
                     case 2: // 좌 
-                        if (_board.Tile[PosY, PosX - 1] == Board.TileType.Empty)
+                        if (PosX - 1 >= 0 && _board.Tile[PosY, PosX - 1] == Board.TileType.Empty)
                             PosX = PosX - 1;
                         break;
                     case 3: // 우
-                        if (_board.Tile[PosY, PosX + 1] == Board.TileType.Empty)
+                        if (PosX + 1 < _board.Size && _board.Tile[PosY, PosX + 1] == Board.TileType.Empty)
                             PosX = PosX + 1;
                         break;
-
                 }
             }
         }
