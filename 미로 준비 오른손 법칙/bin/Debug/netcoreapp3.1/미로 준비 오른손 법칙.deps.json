@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "미로 준비 오른손 법칙/1.0.0": {
+        "runtime": {
+          "미로 준비 오른손 법칙.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "미로 준비 오른손 법칙/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
