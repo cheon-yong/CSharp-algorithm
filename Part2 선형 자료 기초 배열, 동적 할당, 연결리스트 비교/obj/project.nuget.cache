@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mpe3vCqv2IjIiPWSspk6qQAaBJt8on1B45NvqX0zFsdqmj8D369B9axzd7HB3C2rCfBcEE4+IV0KayRX6mPnqA==",
+  "dgSpecHash": "FTPPoyX2dBk6wiScU8U+nRmUBPoQSa8o49WAwCjSHgE929hJSnH/Vx6gSoWx0QnKbPEtlTe6b85kbazJooUOmw==",
   "success": true,
-  "projectFilePath": "D:\\vs2019_C#_part1\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교.csproj",
+  "projectFilePath": "D:\\vs2019_C#_part2\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

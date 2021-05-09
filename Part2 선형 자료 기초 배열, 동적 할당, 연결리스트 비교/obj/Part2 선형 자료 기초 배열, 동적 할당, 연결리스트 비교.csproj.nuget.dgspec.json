@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\vs2019_C#_part1\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교.csproj": {}
+    "D:\\vs2019_C#_part2\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교.csproj": {}
   },
   "projects": {
-    "D:\\vs2019_C#_part1\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교.csproj": {
+    "D:\\vs2019_C#_part2\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\vs2019_C#_part1\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교.csproj",
+        "projectUniqueName": "D:\\vs2019_C#_part2\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교.csproj",
         "projectName": "Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교",
-        "projectPath": "D:\\vs2019_C#_part1\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교.csproj",
+        "projectPath": "D:\\vs2019_C#_part2\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교.csproj",
         "packagesPath": "C:\\Users\\yes13\\.nuget\\packages\\",
-        "outputPath": "D:\\vs2019_C#_part1\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교\\obj\\",
+        "outputPath": "D:\\vs2019_C#_part2\\Part2 선형 자료 기초 배열, 동적 할당, 연결리스트 비교\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yes13\\AppData\\Roaming\\NuGet\\NuGet.Config",
