@@ -1,0 +1,12 @@
+D:\vs2019_C#_part2\미로 준비 플레이어 이동\bin\Debug\netcoreapp3.1\미로 준비 플레이어 이동.exe
+D:\vs2019_C#_part2\미로 준비 플레이어 이동\bin\Debug\netcoreapp3.1\미로 준비 플레이어 이동.deps.json
+D:\vs2019_C#_part2\미로 준비 플레이어 이동\bin\Debug\netcoreapp3.1\미로 준비 플레이어 이동.runtimeconfig.json
+D:\vs2019_C#_part2\미로 준비 플레이어 이동\bin\Debug\netcoreapp3.1\미로 준비 플레이어 이동.runtimeconfig.dev.json
+D:\vs2019_C#_part2\미로 준비 플레이어 이동\bin\Debug\netcoreapp3.1\미로 준비 플레이어 이동.dll
+D:\vs2019_C#_part2\미로 준비 플레이어 이동\bin\Debug\netcoreapp3.1\미로 준비 플레이어 이동.pdb
+D:\vs2019_C#_part2\미로 준비 플레이어 이동\obj\Debug\netcoreapp3.1\미로 준비 플레이어 이동.AssemblyInfoInputs.cache
+D:\vs2019_C#_part2\미로 준비 플레이어 이동\obj\Debug\netcoreapp3.1\미로 준비 플레이어 이동.AssemblyInfo.cs
+D:\vs2019_C#_part2\미로 준비 플레이어 이동\obj\Debug\netcoreapp3.1\미로 준비 플레이어 이동.csproj.CoreCompileInputs.cache
+D:\vs2019_C#_part2\미로 준비 플레이어 이동\obj\Debug\netcoreapp3.1\미로 준비 플레이어 이동.dll
+D:\vs2019_C#_part2\미로 준비 플레이어 이동\obj\Debug\netcoreapp3.1\미로 준비 플레이어 이동.pdb
+D:\vs2019_C#_part2\미로 준비 플레이어 이동\obj\Debug\netcoreapp3.1\미로 준비 플레이어 이동.genruntimeconfig.cache
