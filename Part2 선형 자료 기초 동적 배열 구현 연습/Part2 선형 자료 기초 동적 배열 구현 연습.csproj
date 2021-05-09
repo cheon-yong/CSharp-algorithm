@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Part2_선형_자료_기초_동적_배열_구현_연습</RootNamespace>
+  </PropertyGroup>
+
+</Project>
