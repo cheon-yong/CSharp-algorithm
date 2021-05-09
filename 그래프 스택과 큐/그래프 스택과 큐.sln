@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "그래프 스택과 큐", "그래프 스택과 큐.csproj", "{0059BD5B-1C6A-4701-8D5A-CE1A8AF304BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise", "..\Exercise\Exercise.csproj", "{3C382BED-0B6D-4B05-8B25-181BB0E20A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0059BD5B-1C6A-4701-8D5A-CE1A8AF304BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0059BD5B-1C6A-4701-8D5A-CE1A8AF304BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0059BD5B-1C6A-4701-8D5A-CE1A8AF304BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0059BD5B-1C6A-4701-8D5A-CE1A8AF304BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C382BED-0B6D-4B05-8B25-181BB0E20A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C382BED-0B6D-4B05-8B25-181BB0E20A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C382BED-0B6D-4B05-8B25-181BB0E20A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C382BED-0B6D-4B05-8B25-181BB0E20A98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1002A15-64FF-4228-9B1C-DA52BCADBCBF}
+	EndGlobalSection
+EndGlobal
