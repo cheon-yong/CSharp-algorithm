@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "미로 준비 Binary Tree 미로 생성 알고리즘", "미로 준비 Binary Tree 미로 생성 알고리즘.csproj", "{E1332C93-13DF-4845-AD71-D36CCC0085DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1332C93-13DF-4845-AD71-D36CCC0085DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1332C93-13DF-4845-AD71-D36CCC0085DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1332C93-13DF-4845-AD71-D36CCC0085DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1332C93-13DF-4845-AD71-D36CCC0085DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E255253A-8777-4206-BF0F-EA890C80E6B8}
+	EndGlobalSection
+EndGlobal
