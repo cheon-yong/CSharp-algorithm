@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>선형_자료_기초_연결_리스트_구현_연습</RootNamespace>
+  </PropertyGroup>
+
+</Project>
