@@ -13,7 +13,7 @@ namespace 그래프_BFS를_이용한_길찾기_구현
             player.Initialize(1, 1, board);
 
             Console.CursorVisible = false;
-            const int WAIT_TICK = 1000 / 30;
+            const int WAIT_TICK = 10000 / 30;
 
             int lastTick = 0;
             while (true)

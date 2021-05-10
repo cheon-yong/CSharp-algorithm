@@ -36,13 +36,13 @@ namespace 그래프_BFS를_이용한_길찾기_구현
             _board = board;
 
             //RightHand();
-            BFS();
+            MyBFS();
         }
 
         void BFS()
         {
-            int[] deltaX = new int[] { -1, 0, 1, 0};
-            int[] deltaY = new int[] { 0, -1, 0, 1};
+            int[] deltaY = new int[] { -1, 0, 1, 0};
+            int[] deltaX = new int[] { 0, -1, 0, 1};
 
             bool[,] found = new bool[_board.Size, _board.Size];
             Pos[,] parent = new Pos[_board.Size, _board.Size];
@@ -80,6 +80,55 @@ namespace 그래프_BFS를_이용한_길찾기_구현
             int x = _board.DestX;
 
             while (parent[y, x].Y != y || parent[y, x].X != x)
+            {
+                _points.Add(new Pos(y, x));
+                Pos pos = parent[y, x];
+                y = pos.Y;
+                x = pos.X;
+            }
+            _points.Add(new Pos(y, x));
+            _points.Reverse();
+        }
+
+        void MyBFS()
+        {
+            int[] deltaY = new int[] { -1, 0, 1, 0 };
+            int[] deltaX = new int[] { 0, -1, 0, 1 };
+
+            bool[,] found = new bool[_board.Size, _board.Size];
+            Pos[,] parent = new Pos[_board.Size, _board.Size];
+            Queue<Pos> q = new Queue<Pos>();
+
+            found[PosY, PosX] = true;
+            parent[PosY, PosX] = new Pos(PosY, PosX);
+            q.Enqueue(new Pos(PosY, PosX));
+            while (q.Count > 0)
+            {
+                Pos now = q.Dequeue();
+                int nowY = now.Y;
+                int nowX = now.X;
+
+                for (int i =0; i<4; i++)
+                {
+                    int nextY = nowY + deltaY[i];
+                    int nextX = nowX + deltaX[i];
+
+                    if (nextX >= _board.Size || nextX < 0 || nextY >= _board.Size || nextY < 0)
+                        continue;
+                    if (found[nextY, nextX])
+                        continue;
+                    if (_board.Tile[nextY, nextX] == Board.TileType.Wall)
+                        continue;
+
+                    q.Enqueue(new Pos(nextY, nextX));
+                    found[nextY, nextX] = true;
+                    parent[nextY, nextX] = new Pos(nowY, nowX);
+                }    
+            }
+
+            int y = _board.DestY;
+            int x = _board.DestX;
+            while (y != parent[y, x].Y || x != parent[y, x].X)
             {
                 _points.Add(new Pos(y, x));
                 Pos pos = parent[y, x];
@@ -128,7 +177,7 @@ namespace 그래프_BFS를_이용한_길찾기_구현
             }
         }
 
-        const int MOVE_TICK = 10;
+        const int MOVE_TICK = 100;
         int _sumTick = 0;
         int _lastIndex = 0;
         public void Update(int deltaTick)
