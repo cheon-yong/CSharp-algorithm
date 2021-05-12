@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "그래프 다익스트라 최단 경로 알고리즘/1.0.0": {
+        "runtime": {
+          "그래프 다익스트라 최단 경로 알고리즘.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "그래프 다익스트라 최단 경로 알고리즘/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>그래프_다익스트라_최단_경로_알고리즘</RootNamespace>
+  </PropertyGroup>
+
+</Project>
