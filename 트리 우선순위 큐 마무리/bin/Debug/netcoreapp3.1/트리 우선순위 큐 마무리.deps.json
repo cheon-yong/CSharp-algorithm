@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "트리 우선순위 큐 마무리/1.0.0": {
+        "runtime": {
+          "트리 우선순위 큐 마무리.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "트리 우선순위 큐 마무리/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
